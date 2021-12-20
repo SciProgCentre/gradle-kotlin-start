@@ -14,6 +14,6 @@ In orderd to get a working (and published to [maven central](https://search.mave
 
 All plugins will follow [semantic versioning](https://semver.org/) convention and will have a suffix for kotlin version. Like this: `0.1.0-kotlin-1.6.10`.
 
-## Feature
+## Features
 
 All project features should by default feature publishing to a github rebository and to sonatype/maven-central if you get corresponding credentials.
