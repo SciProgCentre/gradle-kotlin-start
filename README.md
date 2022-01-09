@@ -8,7 +8,7 @@ It is not a secret that Gradle is one of the most powerful yet complicated build
 
 ## The process
 
-The process of creating plugins is community-drivven. Meaning that community will try to meet your needs.
+The process of creating plugins is community-driven. Meaning that community will try to meet your needs.
 
 In orderd to get a working (and published to [maven central](https://search.maven.org/)) plugin, you need to first create an [issue](https://github.com/mipt-npm/gradle-kotlin-start/issues) with the description of your problem. And then answer questions if they arise.
 
